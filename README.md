@@ -26,7 +26,7 @@
     </a>
 </div>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JAgustin91&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="JAgustin91">
+
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
