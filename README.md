@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAgustin91&amp;theme=dark&" alt="JAgustin91" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JAgustin91&show_icons=true&amp;theme=dark&locale=en&layout=compact" alt="JAgustin91" /></p>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a>
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=JAgustin91&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
     </a>
 </div>
